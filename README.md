@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khaled Younes</h1>
 <h2 align="center">Junior developer</h2>
-
+<p >
+  <img src="https://komarev.com/ghpvc/?username=khaledyo&label=Profile%20views&color=0e75b6&style=flat" alt="khaledyo" />
+</p>
 <table width="100%">
   <tr>
     <!-- Partie gauche -->
